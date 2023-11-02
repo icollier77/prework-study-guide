@@ -1,5 +1,5 @@
 # prework-study-guide
-# Front End Web Development Bootcamp study guide
+# Front End Web Development Bootcamp Study Guide
 
 ## Description
 
