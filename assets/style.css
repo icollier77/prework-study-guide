@@ -9,6 +9,7 @@ footer {
     height: 120px;
     background-color: rgb(132, 35, 132);
     color: white;
+    text-align: center;
 }
 
 h1,
@@ -39,4 +40,25 @@ p {
     margin: 40px auto;
     border: 5px solid rgb(86, 10, 116);
     box-shadow: 15px 15px #9661a2;
+  }
+
+  .sourcelink{
+    font-size: small;
+    padding: 25px;
+  }
+
+  a:link {
+    color: white;
+  }
+
+  a:visited {
+    color: grey;
+  }
+
+  a:hover {
+    color: yellow;
+  }
+
+  a:active {
+    color: blue;
   }
